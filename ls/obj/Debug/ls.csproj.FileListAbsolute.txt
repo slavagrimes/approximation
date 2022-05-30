@@ -1,0 +1,63 @@
+C:\Users\User\Desktop\учеба\курсовые\3 Специальные главы математики\ls\ls\bin\Debug\ls.exe.config
+C:\Users\User\Desktop\учеба\курсовые\3 Специальные главы математики\ls\ls\bin\Debug\ls.exe
+C:\Users\User\Desktop\учеба\курсовые\3 Специальные главы математики\ls\ls\bin\Debug\ls.pdb
+C:\Users\User\Desktop\учеба\курсовые\3 Специальные главы математики\ls\ls\obj\Debug\ls.csprojAssemblyReference.cache
+C:\Users\User\Desktop\учеба\курсовые\3 Специальные главы математики\ls\ls\obj\Debug\ls.Form1.resources
+C:\Users\User\Desktop\учеба\курсовые\3 Специальные главы математики\ls\ls\obj\Debug\ls.Properties.Resources.resources
+C:\Users\User\Desktop\учеба\курсовые\3 Специальные главы математики\ls\ls\obj\Debug\ls.csproj.GenerateResource.cache
+C:\Users\User\Desktop\учеба\курсовые\3 Специальные главы математики\ls\ls\obj\Debug\ls.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба\курсовые\3 Специальные главы математики\ls\ls\obj\Debug\ls.exe
+C:\Users\User\Desktop\учеба\курсовые\3 Специальные главы математики\ls\ls\obj\Debug\ls.pdb
+C:\Users\User\Desktop\учеба\курсовые\3 Специальные главы математики\ls\ls\obj\Debug\ls.Form2.resources
+C:\Users\I\Desktop\ls\ls\bin\Debug\ls.exe.config
+C:\Users\I\Desktop\ls\ls\bin\Debug\ls.exe
+C:\Users\I\Desktop\ls\ls\bin\Debug\ls.pdb
+C:\Users\I\Desktop\ls\ls\obj\Debug\ls.csproj.AssemblyReference.cache
+C:\Users\I\Desktop\ls\ls\obj\Debug\ls.Form1.resources
+C:\Users\I\Desktop\ls\ls\obj\Debug\ls.Properties.Resources.resources
+C:\Users\I\Desktop\ls\ls\obj\Debug\ls.csproj.GenerateResource.cache
+C:\Users\I\Desktop\ls\ls\obj\Debug\ls.csproj.CoreCompileInputs.cache
+C:\Users\I\Desktop\ls\ls\obj\Debug\ls.exe
+C:\Users\I\Desktop\ls\ls\obj\Debug\ls.pdb
+C:\Users\I\Desktop\помощь\ls\ls\bin\Debug\ls.exe.config
+C:\Users\I\Desktop\помощь\ls\ls\bin\Debug\ls.exe
+C:\Users\I\Desktop\помощь\ls\ls\bin\Debug\ls.pdb
+C:\Users\I\Desktop\помощь\ls\ls\obj\Debug\ls.csproj.AssemblyReference.cache
+C:\Users\I\Desktop\помощь\ls\ls\obj\Debug\ls.Form1.resources
+C:\Users\I\Desktop\помощь\ls\ls\obj\Debug\ls.Properties.Resources.resources
+C:\Users\I\Desktop\помощь\ls\ls\obj\Debug\ls.csproj.GenerateResource.cache
+C:\Users\I\Desktop\помощь\ls\ls\obj\Debug\ls.csproj.CoreCompileInputs.cache
+C:\Users\I\Desktop\помощь\ls\ls\obj\Debug\ls.exe
+C:\Users\I\Desktop\помощь\ls\ls\obj\Debug\ls.pdb
+C:\Users\I\Desktop\ls\ls\bin\Debug\Accord.dll.config
+C:\Users\I\Desktop\ls\ls\bin\Debug\Accord.dll
+C:\Users\I\Desktop\ls\ls\bin\Debug\Accord.Math.Core.dll
+C:\Users\I\Desktop\ls\ls\bin\Debug\Accord.Math.dll
+C:\Users\I\Desktop\ls\ls\bin\Debug\Accord.Statistics.dll
+C:\Users\I\Desktop\ls\ls\bin\Debug\Accord.xml
+C:\Users\I\Desktop\ls\ls\bin\Debug\Accord.Math.xml
+C:\Users\I\Desktop\ls\ls\bin\Debug\Accord.Math.Core.xml
+C:\Users\I\Desktop\ls\ls\bin\Debug\Accord.Statistics.xml
+C:\Users\I\Desktop\ls\ls\obj\Debug\ls.csproj.CopyComplete
+C:\Users\alina\OneDrive\Рабочий стол\ls\ls\bin\Debug\Accord.dll.config
+C:\Users\alina\OneDrive\Рабочий стол\ls\ls\bin\Debug\ls.exe.config
+C:\Users\alina\OneDrive\Рабочий стол\ls\ls\bin\Debug\ls.exe
+C:\Users\alina\OneDrive\Рабочий стол\ls\ls\bin\Debug\ls.pdb
+C:\Users\alina\OneDrive\Рабочий стол\ls\ls\bin\Debug\Accord.dll
+C:\Users\alina\OneDrive\Рабочий стол\ls\ls\bin\Debug\Accord.Math.Core.dll
+C:\Users\alina\OneDrive\Рабочий стол\ls\ls\bin\Debug\Accord.Math.dll
+C:\Users\alina\OneDrive\Рабочий стол\ls\ls\bin\Debug\Accord.Statistics.dll
+C:\Users\alina\OneDrive\Рабочий стол\ls\ls\bin\Debug\Accord.xml
+C:\Users\alina\OneDrive\Рабочий стол\ls\ls\bin\Debug\Accord.Math.xml
+C:\Users\alina\OneDrive\Рабочий стол\ls\ls\bin\Debug\Accord.Math.Core.xml
+C:\Users\alina\OneDrive\Рабочий стол\ls\ls\bin\Debug\Accord.Statistics.xml
+C:\Users\alina\OneDrive\Рабочий стол\ls\ls\obj\Debug\ls.csproj.AssemblyReference.cache
+C:\Users\alina\OneDrive\Рабочий стол\ls\ls\obj\Debug\ls.Form1.resources
+C:\Users\alina\OneDrive\Рабочий стол\ls\ls\obj\Debug\ls.Properties.Resources.resources
+C:\Users\alina\OneDrive\Рабочий стол\ls\ls\obj\Debug\ls.csproj.GenerateResource.cache
+C:\Users\alina\OneDrive\Рабочий стол\ls\ls\obj\Debug\ls.csproj.CoreCompileInputs.cache
+C:\Users\alina\OneDrive\Рабочий стол\ls\ls\obj\Debug\ls.csproj.CopyComplete
+C:\Users\alina\OneDrive\Рабочий стол\ls\ls\obj\Debug\ls.exe
+C:\Users\alina\OneDrive\Рабочий стол\ls\ls\obj\Debug\ls.pdb
+C:\Users\alina\OneDrive\Рабочий стол\ls\ls\bin\Debug\System.ValueTuple.dll
+C:\Users\alina\OneDrive\Рабочий стол\ls\ls\bin\Debug\System.ValueTuple.xml
